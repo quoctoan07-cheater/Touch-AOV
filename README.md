@@ -1,6 +1,6 @@
 # Cảm ứng Unity → ImGui trên Android (Realme)
 
-## 1. Đoạn mã chính (đặt trong namespace UnityEngine::Input)
+## 1. Đoạn mã chính 
 
 ```cpp
 #pragma once
