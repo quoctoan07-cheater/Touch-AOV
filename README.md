@@ -1,4 +1,4 @@
-# Cảm ứng Unity → ImGui trên Android (Realme)
+# Cảm ứng Unity → ImGui trên Android
 
 ## 1. Đoạn mã chính 
 
